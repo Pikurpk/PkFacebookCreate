@@ -7,7 +7,7 @@ print(f"""
 print('\x1b[38;5;208m ❖Pk♕'*15)
 print('\x1b[38;5;22m ❖Pk•'*15)
 print('\x1b[38;5;22m ❖Pk•'*15)
-print('\x1b[38;5;208m ❖Pk♕*15)
+print('\x1b[38;5;208m ❖Pk♕'*15)
 import requests
 import random
 import string
