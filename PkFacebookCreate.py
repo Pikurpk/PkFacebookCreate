@@ -3,7 +3,7 @@ print(f"""
 ❖ › Channel :- @PkFacebookCreate 
 ❖ › Facebook:- pikachu.pk.444
 ❖ › By      :- Foysal Islam
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━┛                """)
+┗━━━━━━━━━━━━━━━━━━━━━━━┛                """)
 print('\x1b[38;5;208m⇼'*60)
 print('\x1b[38;5;22m•'*60)
 print('\x1b[38;5;22m•'*60)
