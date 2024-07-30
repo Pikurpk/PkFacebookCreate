@@ -4,10 +4,10 @@ print(f"""
 ❖ › Facebook:- pikachu.pk.444
 ❖ › By      :- Foysal Islam
 ┗━━━━━━━━━━━━━━━━━━━━━━━┛                """)
-print('\x1b[38;5;208m ❖Pk♕'*15)
-print('\x1b[38;5;22m ❖Pk•'*15)
-print('\x1b[38;5;22m ❖Pk•'*15)
-print('\x1b[38;5;208m ❖Pk♕'*15)
+print('\x1b[38;5;208m ❖Pk♕'*10)
+print('\x1b[38;5;22m ❖Pk•'*10)
+print('\x1b[38;5;22m ❖Pk•'*10)
+print('\x1b[38;5;208m ❖Pk♕'*10)
 import requests
 import random
 import string
